@@ -5,6 +5,8 @@ from datetime import datetime, time
 from streamlit_lottie import st_lottie
 import requests
 import requests.exceptions
+from altair.vegalite.v4.api import Chart
+
 
 def main():
     try:
