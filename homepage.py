@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from vCard import vobject, *
+from vCard import  *
 from datetime import datetime, time
 from streamlit_lottie import st_lottie
 import requests
